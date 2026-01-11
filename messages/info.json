@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "20251231_hny2026",
+    "default": true,
+    "recurring": false,
+    "start_at": "2025-12-30T00:00:00+07:00",
+    "end_at": "2026-01-05T23:59:59+07:00"
+  },
+  {
+    "slug": "20260114_teachers-day",
+    "default": false,
+    "recurring": false,
+    "start_at": "2026-01-14T00:00:00+07:00",
+    "end_at": "2026-01-18T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_0-sunday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [0]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_1-monday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [1]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_2-tuesday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [2]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_3-wednesday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [3]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_4-thursday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [4]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_5-friday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [5]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  },
+  {
+    "slug": "20260101_6-saturday",
+    "default": true,
+    "recurring": {
+      "type": "weekly",
+      "day_of_week": [6]
+    },
+    "start_at": "2026-01-01T00:00:00+07:00",
+    "end_at": "2026-12-31T23:59:59+07:00"
+  }
+]

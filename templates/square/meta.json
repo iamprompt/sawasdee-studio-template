@@ -1,0 +1,51 @@
+{
+  "id": "3",
+  "name": {
+    "en": "Square",
+    "th": "สี่เหลี่ยมจัตุรัส"
+  },
+  "image": "https://bucket.ex10.tech/images/daa6c229-a563-11ee-97d4-0242ac12000b/originalContentUrl.png",
+  "fields": [
+    {
+      "key": "title",
+      "type": "text",
+      "label": {
+        "en": "Title",
+        "th": "หัวเรื่อง"
+      }
+    },
+    {
+      "key": "description",
+      "type": "textarea",
+      "label": {
+        "en": "Description",
+        "th": "คำอธิบาย"
+      }
+    },
+    {
+      "key": "image",
+      "type": "image",
+      "label": {
+        "en": "Image URL",
+        "th": "URL รูปภาพ"
+      }
+    },
+    {
+      "key": "name",
+      "type": "profile_name",
+      "label": {
+        "en": "From",
+        "th": "จาก"
+      }
+    },
+    {
+      "key": "text_color",
+      "type": "color",
+      "label": {
+        "en": "Text Color",
+        "th": "สีตัวอักษร"
+      },
+      "default": "#FFFFFF"
+    }
+  ]
+}

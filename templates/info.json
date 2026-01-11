@@ -1,0 +1,16 @@
+{
+  "templates": [
+    {
+      "order": 1,
+      "slug": "default"
+    },
+    {
+      "order": 2,
+      "slug": "simple"
+    },
+    {
+      "order": 3,
+      "slug": "square"
+    }
+  ]
+}

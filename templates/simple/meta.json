@@ -1,0 +1,49 @@
+{
+  "id": "2",
+  "name": "Simple",
+  "image": "https://bucket.ex10.tech/images/05ab92fc-a564-11ee-97d4-0242ac12000b/originalContentUrl.png",
+  "fields": [
+    {
+      "key": "title",
+      "type": "text",
+      "label": {
+        "en": "Title",
+        "th": "หัวเรื่อง"
+      }
+    },
+    {
+      "key": "description",
+      "type": "textarea",
+      "label": {
+        "en": "Description",
+        "th": "คำอธิบาย"
+      }
+    },
+    {
+      "key": "name",
+      "type": "profile_name",
+      "label": {
+        "en": "From",
+        "th": "จาก"
+      }
+    },
+    {
+      "key": "bg_color",
+      "type": "color",
+      "label": {
+        "en": "Background Color",
+        "th": "สีพื้นหลัง"
+      },
+      "default": "#000000"
+    },
+    {
+      "key": "text_color",
+      "type": "color",
+      "label": {
+        "en": "Text Color",
+        "th": "สีตัวอักษร"
+      },
+      "default": "#FFFFFF"
+    }
+  ]
+}
