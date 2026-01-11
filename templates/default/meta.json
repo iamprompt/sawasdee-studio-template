@@ -1,6 +1,9 @@
 {
   "id": "1",
-  "name": "Default",
+  "name": {
+    "en": "Default",
+    "th": "ค่าเริ่มต้น"
+  },
   "image": "https://bucket.ex10.tech/images/fa04dce3-a563-11ee-97d4-0242ac12000b/originalContentUrl.png",
   "fields": [
     {
