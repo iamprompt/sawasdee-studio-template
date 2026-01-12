@@ -14,6 +14,13 @@
     "end_at": "2026-01-18T23:59:59+07:00"
   },
   {
+    "slug": "20260214_valentines-day",
+    "default": false,
+    "recurring": false,
+    "start_at": "2026-02-12T00:00:00+07:00",
+    "end_at": "2026-02-16T23:59:59+07:00"
+  },
+  {
     "slug": "20260101_0-sunday",
     "default": true,
     "recurring": {
