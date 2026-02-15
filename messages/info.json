@@ -1,5 +1,12 @@
 [
   {
+    "slug": "20260215_cny_2026",
+    "default": true,
+    "recurring": false,
+    "start_at": "2026-02-15T00:00:00+07:00",
+    "end_at": "2026-02-20T23:59:59+07:00"
+  },
+  {
     "slug": "20251231_hny2026",
     "default": true,
     "recurring": false,
@@ -18,7 +25,7 @@
     "default": false,
     "recurring": false,
     "start_at": "2026-02-12T00:00:00+07:00",
-    "end_at": "2026-02-16T23:59:59+07:00"
+    "end_at": "2026-02-14T23:59:59+07:00"
   },
   {
     "slug": "20260101_0-sunday",
